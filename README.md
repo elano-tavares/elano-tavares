@@ -9,6 +9,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/elano-tavares/elano-tavares/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="43" alt="php logo"  />
   <img width="12" />
@@ -30,12 +36,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/elano-tavares/elano-tavares/output/snake.svg" alt="Snake animation" />
 
 ###
 
