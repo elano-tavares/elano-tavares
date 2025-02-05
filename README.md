@@ -47,16 +47,23 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/elano-tavares" target="_blank" style="text-decoration: none;">
+<style>
+  .social-links a {
+    text-decoration: none;
+  }
+</style>
+
+<div class="social-links" align="center">
+  <a href="https://www.linkedin.com/in/elano-tavares" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:elano.tavares@example.com" style="text-decoration: none;">
+  <a href="mailto:elano.tavares@example.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
   </a>
-  <a href="https://www.instagram.com/elano_tavares/" target="_blank" style="text-decoration: none;">
+  <a href="https://www.instagram.com/elano_tavares/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
   </a>
 </div>
+
 
 ###
