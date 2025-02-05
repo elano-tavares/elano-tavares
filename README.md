@@ -47,13 +47,7 @@
 
 ###
 
-<style>
-  .social-links a {
-    text-decoration: none;
-  }
-</style>
-
-<div class="social-links" align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/elano-tavares" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
   </a>
