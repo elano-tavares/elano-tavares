@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Elano Tavares and I'm a <br>Computer Scientist, from Porto Alegre, Brazil</h2>
+<h2 align="left">Oi 👋! Meu nome é Elano Tavares e eu sou um Cientista da Computação, de Porto Alegre, Brasil</h2>
 
 ###
 
